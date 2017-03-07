@@ -9,7 +9,7 @@
         "default_icon": "icon.png",
         "default_popup": "popup.html"
     },
-//test
+//test2
     "permissions": [
         "activeTab"
     ]
